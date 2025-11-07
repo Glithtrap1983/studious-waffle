@@ -1,6 +1,6 @@
 # arbuzik
 ### aboltus
-![TIHOHRUN]([https://user-images.githubusercontent.com/60629407/139448835-f652c6bd-02bf-4654-8e25-9d947acf7581.png](https://cs6.pikabu.ru/images/big_size_comm/2015-06_4/1434665311173084326.jpg))
+![TIHOHRUN]([https://pbs.twimg.com/ext_tw_video_thumb/1730860979825618944/pu/img/HqAcY8BGR9E3qlgM.jpg])
 **I'm brr brr patapim**
 *There is Example of halal svinota:*
 ```javascript
